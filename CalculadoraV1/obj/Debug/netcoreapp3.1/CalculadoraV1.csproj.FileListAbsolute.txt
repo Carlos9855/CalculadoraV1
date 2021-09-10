@@ -1,0 +1,26 @@
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.exe
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.deps.json
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.runtimeconfig.json
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.runtimeconfig.dev.json
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.dll
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.pdb
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.csproj.AssemblyReference.cache
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.AssemblyInfo.cs
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.dll
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.pdb
+C:\Users\josec\source\repos\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.genruntimeconfig.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.exe
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.deps.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.runtimeconfig.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.runtimeconfig.dev.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\bin\Debug\netcoreapp3.1\CalculadoraV1.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.csproj.AssemblyReference.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.AssemblyInfoInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.AssemblyInfo.cs
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.csproj.CoreCompileInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\CalculadoraV1\CalculadoraV1\obj\Debug\netcoreapp3.1\CalculadoraV1.genruntimeconfig.cache
