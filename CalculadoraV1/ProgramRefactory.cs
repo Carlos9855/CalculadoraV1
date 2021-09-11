@@ -40,7 +40,7 @@ namespace Calculadora
                         imprimir(v1, v2, v1 * v2, "multiplicacion", r);
                         break;
                     case "/":
-                        imprimir(v1, v2, v1 + v2, "division", r);
+                        imprimir(v1, v2, v1 / v2, "division", r);
                         break;
                 }
                 Console.Write("n¿Desea Continuar? s/n: ");
